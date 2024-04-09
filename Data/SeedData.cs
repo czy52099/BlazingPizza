@@ -10,7 +10,7 @@ internal static class SeedData
             {
                 Name = "Basic Cheese Pizza",
                 Description = "It's cheesy and delicious. Why wouldn't you want one?",
-                BasePrice = 9.99m,
+                BasePrice = 10.99m,
                 ImageUrl = "img/pizzas/cheese.jpg",
             },
             new()
